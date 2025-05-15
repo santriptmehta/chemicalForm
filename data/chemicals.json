@@ -1,0 +1,42 @@
+{
+  "industries": [
+    {
+      "industry_name": "Food & Feed Additives",
+      "chemicals": [
+        {
+          "name": "Sodium alginate",
+          "description": "Sodium Alginate is a natural polysaccharide extracted from seaweed carbohydrates. Widely used in food, pharmaceutical, textile, printing and dyeing, paper making, daily-use chemical products as a thickener,emulsifier,stabilizer, binder, sizing agent used. Sodium Alginate in the pharmaceutical industry have anti-clotting, lowering blood pressure and reduce blood viscosity effect. E401 Can prevent high blood pressure, diabetes, obesity and other modern diseases.",
+          "category": "",
+          "cas_number": "9005-38-3",
+          "molecular_formula": "C5H7O4COONa",
+          "cines_number": "231-915-5",
+          "properties": [
+            {
+              "key": "Typical Properties",
+              "value": "White to Off-white powder. Soluble in water. Insoluble in alcohol, chloroform and ether."
+            },
+            {
+              "key": "Appearance",
+              "value": "Creamy white powder"
+            }
+          ],
+          "application": [
+            {
+              "key": "Stability",
+              "value": "used in ice cream, cheese, cream and yogurt, etc."
+            },
+            {
+              "key": "Thickening and emulsification",
+              "value": " used in salads, puddings, jams, ketchup and canned products, etc."
+            },
+            {
+              "key": "Excipient",
+              "value": "used in dental impression materials, ointments, tablets, etc.;"
+            }
+          ],
+          "storage": []
+        }
+      ]
+    }
+  ]
+}
